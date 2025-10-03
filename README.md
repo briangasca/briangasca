@@ -2,7 +2,7 @@
 
 🎓 Computer Science student at the 
 
-![UC San Diego](./ucsd-gradient.svg?v=3)
+![UC San Diego](./ucsd-gradient.svg?v=2)
 
 ---
 
