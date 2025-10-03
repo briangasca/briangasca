@@ -1,4 +1,4 @@
-# Hi, I'm Brian Gasca 👋
+# Hi, I'm Brian👋
 
 🎓 Computer Science student at **University of California, San Diego** 
 
