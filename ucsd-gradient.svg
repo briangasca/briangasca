@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" height="60" role="img" aria-label="UC San Diego" style="vertical-align: middle;">
-  <text x="0" y="65" font-size="50" font-family="Arial, sans-serif">
+  <text x="0" y="65" font-size="50" font-family="Arial Black, Impact, sans-serif">
     <tspan fill="#4B8BBE">University of California, </tspan>
     <tspan fill="#FDB515">San Diego</tspan>
   </text>
