@@ -6,7 +6,7 @@
       <stop offset="100%" stop-color="#182B49"/>
     </linearGradient>
   </defs>
-  <text x="0" y="45" font-size="40" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" fill="url(#g)">
+  <text x="0" y="45" font-size="40" font-weight="bold" font-family="Arial Black, Impact, sans-serif" fill="url(#g)">
     University of California, San Diego
   </text>
 </svg>
