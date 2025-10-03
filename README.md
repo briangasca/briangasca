@@ -13,7 +13,7 @@
 ---
 
 ## 🛠️ Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,mongodb,express,nodejs,py,cpp,java,js,docker,aws,git,github&perline=4)](https://skillicons.dev)
 
 ---
 
