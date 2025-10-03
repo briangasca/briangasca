@@ -6,5 +6,5 @@
       <stop offset="100%" stop-color="#FDB515"/>
     </linearGradient>
   </defs>
-  <text x="0" y="24" font-family="Inter, Arial, sans-serif" font-size="20" fill="url(#g)">UC San Diego</text>
+  <text fill="url(#g)">UC San Diego</text>
 </svg>
