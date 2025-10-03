@@ -1,14 +1,21 @@
 # Hi, I'm Brian👋
 
-🎓 Computer Science student at **University of California, San Diego** 
+🎓 Computer Science student at the **University of California, San Diego** 
 
 ---
 
 ## 🚀 About Me
 - 📍 From San Diego, CA 
-- 💻 Currently working as an **IT Student Software Engineer** and **IT Project Management Assistant** at UCSD  
+- 💻 Currently working as an **IT Student Software Engineer** and **IT Project Management Assistant** at UC San Diego
 - 🔧 Experienced in **full-stack web development, automation, and IT operations**  
-- 🌱 Actively learning about **cloud platforms, containerization, and advanced machine learning**  
+- 🌱 Actively learning about **cloud platforms, containerization, and advanced machine learning**
+
+<a href="https://linkedin.com/in/brian-gasca" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:gasca.brian11@gmail.com" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+</a>
 
 ---
 
@@ -28,14 +35,3 @@
 *Python, OpenAI API, Discord Bot*  
 - Fine-tuned a custom language model with OpenAI’s API to mimic conversational style.  
 - Integrated into a Discord bot for interactive, AI-driven conversations.  
-
----
-
-## 📫 Connect with Me
-- 📧 Email: [gasca.brian11@gmail.com](mailto:gasca.brian11@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/brian-gasca](https://linkedin.com/in/brian-gasca)  
-- 🖥️ GitHub: [github.com/briangasca](https://github.com/briangasca)  
-
----
-
-⭐️ From [Brian Gasca](https://github.com/briangasca)
