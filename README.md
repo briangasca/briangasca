@@ -1,6 +1,6 @@
 # Hi, I'm Brian👋
 
-🎓 Computer Science student at the 
+🎓 Computer Science student at
 
 ![UC San Diego](./ucsd-gradient.svg?v=2)
 
