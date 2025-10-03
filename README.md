@@ -22,6 +22,10 @@
 ## 🛠️ Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=react,mongodb,express,nodejs,py,cpp,java,js,docker,aws,git,github)](https://skillicons.dev)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/briiiin?ext=heatmap)
+
+
+
 ---
 
 ## 📂 Featured Projects
