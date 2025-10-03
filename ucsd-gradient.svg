@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 36" height="28" role="img" aria-label="UC San Diego">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0" stop-color="#182B49"/>
+      <stop offset="100%" stop-color="#FDB515"/>
+    </linearGradient>
+  </defs>
+  <text x="0" y="24" font-family="Inter, Arial, sans-serif" font-size="20" fill="url(#g)">UC San Diego</text>
+</svg>
